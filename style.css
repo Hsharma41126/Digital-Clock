@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 247, 0);
+}
+.wish{
+    /*display: flex;*/
+    justify-content: space-between;
+    position: relative;
+    top: 300px;
+    left: 40%;
+    background-color: white;
+    width: 200px;
+    border: 2px solid  black;
+    padding: 20px; 
+    border-radius: 20px;
+}
